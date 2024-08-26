@@ -1433,8 +1433,8 @@
   ],
   "textures": [
     {
-      "path": "/home/ixuta/Sources/Des-Nerger/voxelibre_blockbench/resources/mcl_skins_character_1+mcl_skins_top_1.png",
-      "name": "mcl_skins_character_1+mcl_skins_top_1.png",
+      "path": "/home/ixuta/Sources/Des-Nerger/voxelibre_blockbench/resources/mcl_skins_character_1+top_1+eye_5+mouth_7.png",
+      "name": "mcl_skins_character_1+top_1+eye_5+mouth_7.png",
       "folder": "",
       "namespace": "",
       "id": "0",
@@ -1456,7 +1456,7 @@
       "internal": false,
       "saved": true,
       "uuid": "6dffdb9d-6124-1d51-9fd5-a0109ce76cc7",
-      "relative_path": "resources/mcl_skins_character_1+mcl_skins_top_1.png"
+      "relative_path": "resources/mcl_skins_character_1+top_1+eye_5+mouth_7.png"
     },
     {
       "path": "/home/ixuta/Sources/Des-Nerger/voxelibre_blockbench/resources/mcl_armor_helmet_iron.png",
@@ -2383,68 +2383,6 @@
               "interpolation": "catmullrom"
             }
           ]
-        },
-        "94294712-13f7-66ef-361c-1b5e3d94d557": {
-          "name": "Head",
-          "type": "bone",
-          "keyframes": [
-            {
-              "channel": "rotation",
-              "data_points": [
-                {
-                  "x": "0",
-                  "y": "0",
-                  "z": "0"
-                }
-              ],
-              "uuid": "82d8ad2d-bc29-797b-fb92-6ea5916391b0",
-              "time": 0,
-              "color": -1,
-              "interpolation": "catmullrom"
-            },
-            {
-              "channel": "rotation",
-              "data_points": [
-                {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                }
-              ],
-              "uuid": "94d78def-3cd3-3903-aff8-eed7aa6d4a1a",
-              "time": 0.16,
-              "color": -1,
-              "interpolation": "catmullrom"
-            },
-            {
-              "channel": "rotation",
-              "data_points": [
-                {
-                  "x": "0",
-                  "y": "0.752",
-                  "z": 0
-                }
-              ],
-              "uuid": "ff445806-069d-0546-29b7-d89e22c734f8",
-              "time": 0.52,
-              "color": -1,
-              "interpolation": "catmullrom"
-            },
-            {
-              "channel": "rotation",
-              "data_points": [
-                {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                }
-              ],
-              "uuid": "08a6e7bc-7331-336c-8339-0c000296a006",
-              "time": 0.64,
-              "color": -1,
-              "interpolation": "catmullrom"
-            }
-          ]
         }
       }
     },
@@ -2453,7 +2391,7 @@
       "name": "strike",
       "loop": "loop",
       "override": false,
-      "length": 1.44,
+      "length": 0.88,
       "snapping": 25,
       "selected": true,
       "anim_time_update": "",
@@ -2489,7 +2427,7 @@
                 }
               ],
               "uuid": "8bb19569-b851-5d1d-c9ec-7b97baf3cf57",
-              "time": 1.44,
+              "time": 0.88,
               "color": -1,
               "interpolation": "catmullrom"
             },
@@ -2503,7 +2441,7 @@
                 }
               ],
               "uuid": "9c1af297-175b-d639-d11e-93fcbba6548c",
-              "time": 0.44,
+              "time": 0.32,
               "color": -1,
               "interpolation": "catmullrom"
             },
@@ -2517,7 +2455,7 @@
                 }
               ],
               "uuid": "4fab23c3-3df3-d67c-6ec3-baa13672acd8",
-              "time": 0.6,
+              "time": 0.44,
               "color": -1,
               "interpolation": "catmullrom"
             }
@@ -2551,7 +2489,7 @@
                 }
               ],
               "uuid": "241d39c8-d7dd-db83-bbcc-c196accc1c3e",
-              "time": 1.44,
+              "time": 0.88,
               "color": -1,
               "interpolation": "catmullrom"
             },
@@ -2565,7 +2503,7 @@
                 }
               ],
               "uuid": "cb1072ed-e877-1f68-d586-e1fa48fc8432",
-              "time": 0.44,
+              "time": 0.32,
               "color": -1,
               "interpolation": "catmullrom"
             },
@@ -2579,7 +2517,7 @@
                 }
               ],
               "uuid": "86824e3f-af1e-6c03-8b64-76db59f13ce3",
-              "time": 0.6,
+              "time": 0.44,
               "color": -1,
               "interpolation": "catmullrom"
             }
@@ -2613,7 +2551,7 @@
                 }
               ],
               "uuid": "00fd489d-0c3c-996a-574c-a438158312f9",
-              "time": 1.44,
+              "time": 0.88,
               "color": -1,
               "interpolation": "catmullrom"
             },
@@ -2627,7 +2565,7 @@
                 }
               ],
               "uuid": "057a680f-d121-b4bf-6fad-b6a06e71beba",
-              "time": 0.44,
+              "time": 0.32,
               "color": -1,
               "interpolation": "catmullrom"
             },
@@ -2641,7 +2579,7 @@
                 }
               ],
               "uuid": "5732b5c7-b193-411d-a144-4121d3a4f121",
-              "time": 0.6,
+              "time": 0.44,
               "color": -1,
               "interpolation": "catmullrom"
             }
@@ -2661,7 +2599,7 @@
                 }
               ],
               "uuid": "cf4f0357-328c-951a-32f4-0cc7094c34fe",
-              "time": 1.44,
+              "time": 0.88,
               "color": -1,
               "interpolation": "catmullrom"
             },
@@ -2689,7 +2627,7 @@
                 }
               ],
               "uuid": "9b0ae85e-943f-681e-460a-38c0e9872631",
-              "time": 0.44,
+              "time": 0.32,
               "color": -1,
               "interpolation": "catmullrom"
             },
@@ -2703,7 +2641,7 @@
                 }
               ],
               "uuid": "ffe841e3-c844-4e1d-6d98-4656e239870f",
-              "time": 0.6,
+              "time": 0.44,
               "color": -1,
               "interpolation": "catmullrom"
             }
@@ -2737,7 +2675,7 @@
                 }
               ],
               "uuid": "7f8bc514-b984-be56-8120-9232a2f1f84f",
-              "time": 1.44,
+              "time": 0.88,
               "color": -1,
               "interpolation": "catmullrom"
             },
@@ -2751,7 +2689,7 @@
                 }
               ],
               "uuid": "eb461a39-c990-2a21-a316-7320b0f4cedc",
-              "time": 0.44,
+              "time": 0.32,
               "color": -1,
               "interpolation": "catmullrom"
             },
@@ -2765,7 +2703,7 @@
                 }
               ],
               "uuid": "c5fad0a2-6c3a-0603-c493-a4fec6e77030",
-              "time": 0.6,
+              "time": 0.44,
               "color": -1,
               "interpolation": "catmullrom"
             }
@@ -2799,7 +2737,7 @@
                 }
               ],
               "uuid": "dcfb472c-45c7-8c02-2181-5ebdf3b01628",
-              "time": 1.44,
+              "time": 0.88,
               "color": -1,
               "interpolation": "catmullrom"
             },
@@ -2813,7 +2751,7 @@
                 }
               ],
               "uuid": "03cc02f3-7835-2bf2-e178-aae1268cd4c0",
-              "time": 0.44,
+              "time": 0.32,
               "color": -1,
               "interpolation": "catmullrom"
             },
@@ -2827,7 +2765,7 @@
                 }
               ],
               "uuid": "4ad430c9-8a64-512c-2e4a-8cb579e8366f",
-              "time": 0.6,
+              "time": 0.44,
               "color": -1,
               "interpolation": "catmullrom"
             },
@@ -2841,7 +2779,7 @@
                 }
               ],
               "uuid": "e37c9c6a-da04-b553-8ce1-e2244a19be02",
-              "time": 0.56,
+              "time": 0.36,
               "color": -1,
               "interpolation": "catmullrom"
             }
@@ -2875,7 +2813,7 @@
                 }
               ],
               "uuid": "e8608a49-22f0-728d-53e7-62074ddf5426",
-              "time": 1.44,
+              "time": 0.88,
               "color": -1,
               "interpolation": "catmullrom"
             },
@@ -2889,7 +2827,7 @@
                 }
               ],
               "uuid": "a28a6a2e-4500-06aa-30ee-509fa486a5db",
-              "time": 0.44,
+              "time": 0.32,
               "color": -1,
               "interpolation": "catmullrom"
             },
@@ -2903,7 +2841,7 @@
                 }
               ],
               "uuid": "996e4249-0830-f937-9365-2dd69db77a8c",
-              "time": 0.6,
+              "time": 0.44,
               "color": -1,
               "interpolation": "catmullrom"
             }
@@ -2916,7 +2854,7 @@
   "export_options": {
     "gltf": {
       "encoding": "ascii",
-      "scale": 8.9375,
+      "scale": 8.125,
       "embed_textures": true,
       "armature": true,
       "animations": true

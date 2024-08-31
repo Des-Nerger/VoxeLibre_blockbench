@@ -97,9 +97,50 @@
       },
       "type": "cube",
       "uuid": "55cc130a-b84d-c930-4bc4-e0475b285cf1"
+    },
+    {
+      "name": "cube",
+      "box_uv": false,
+      "rescale": false,
+      "locked": false,
+      "render_order": "default",
+      "allow_mirror_modeling": true,
+      "from": [-8, 32, -8],
+      "to": [8, 48, 8],
+      "autouv": 0,
+      "color": 8,
+      "origin": [-7, 32, -7],
+      "faces": {
+        "north": {
+          "uv": [0, 16, 16, 0],
+          "texture": 0
+        },
+        "east": {
+          "uv": [0, 0, 16, 16],
+          "texture": 0
+        },
+        "south": {
+          "uv": [0, 0, 16, 16],
+          "texture": 0
+        },
+        "west": {
+          "uv": [0, 0, 16, 16],
+          "texture": 0
+        },
+        "up": {
+          "uv": [0, 0, 16, 16],
+          "texture": 1
+        },
+        "down": {
+          "uv": [0, 0, 16, 16],
+          "texture": 0
+        }
+      },
+      "type": "cube",
+      "uuid": "9083eb77-381d-4104-0732-729a7972e7c1"
     }
   ],
-  "outliner": ["f33afe05-64ef-d3b5-2b7c-ee48c0d8f809", "55cc130a-b84d-c930-4bc4-e0475b285cf1"],
+  "outliner": ["f33afe05-64ef-d3b5-2b7c-ee48c0d8f809", "9083eb77-381d-4104-0732-729a7972e7c1", "55cc130a-b84d-c930-4bc4-e0475b285cf1"],
   "textures": [
     {
       "path": "/home/ixuta/Sources/Des-Nerger/voxelibre_blockbench/resources/mcl_walls_cobble_wall_side.png",
